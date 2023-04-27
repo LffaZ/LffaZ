@@ -13,7 +13,6 @@ Seorang pelajar SMK yang memiliki minat dalam matematika dan teknologi informasi
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
 
-***
 ---
 [![](https://visitcount.itsvg.in/api?id=LffaZ&icon=5&color=1)](https://visitcount.itsvg.in)
 <!-- source: GPRM ( https://gprm.itsvg.in ) -->
