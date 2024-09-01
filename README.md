@@ -7,8 +7,7 @@ I'm a first-year Data Science student at Universitas Pembangunan Nasional Vetera
 
 ## 💻 Tech Stack:
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-%3776ab.svg?style=flat&logo=Python&logoColor=yellow) 
-![Python](https://img.shields.io/badge/python-%233776ab.svg?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776ab.svg?style=flat&logo=python&logoColor=yellow)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
